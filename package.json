@@ -1,0 +1,14 @@
+{
+  "name": "sample-clerk",
+  "version": "1.0.0",
+  "description": "This project is intended as a starting point for building Latitude applications. It is empty by default, but you can add your own data sources, models, and views to build a full-fledged application.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@clerk/clerk-js": "^4.70.5"
+  }
+}
